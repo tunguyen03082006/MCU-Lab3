@@ -1,0 +1,9 @@
+led_display.c:9:13:roadA_off	8	static
+led_display.c:15:13:roadB_off	8	static
+led_display.c:22:6:setRoadA	16	static
+led_display.c:32:6:setRoadB	16	static
+led_display.c:42:6:allTrafficLedOff	8	static
+led_display.c:48:6:blinkColor	16	static
+led_display.c:74:6:setDigit	16	static
+led_display.c:80:13:update7SEG	32	static
+led_display.c:95:6:display_scan	8	static

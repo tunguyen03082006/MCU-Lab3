@@ -1,0 +1,6 @@
+traffic_light.c:10:13:step	16	static
+traffic_light.c:22:13:validate_durations	4	static
+traffic_light.c:40:16:modeColor	16	static
+traffic_light.c:45:13:show2digits	16	static
+traffic_light.c:51:6:traffic_enter_mode	16	static
+traffic_light.c:74:6:traffic_run	8	static
